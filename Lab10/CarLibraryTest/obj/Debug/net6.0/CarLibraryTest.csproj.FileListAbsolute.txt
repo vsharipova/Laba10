@@ -1,0 +1,5 @@
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibraryTest\obj\Debug\net6.0\CarLibraryTest.csproj.AssemblyReference.cache
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibraryTest\obj\Debug\net6.0\CarLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibraryTest\obj\Debug\net6.0\CarLibraryTest.AssemblyInfoInputs.cache
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibraryTest\obj\Debug\net6.0\CarLibraryTest.AssemblyInfo.cs
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibraryTest\obj\Debug\net6.0\CarLibraryTest.csproj.CoreCompileInputs.cache

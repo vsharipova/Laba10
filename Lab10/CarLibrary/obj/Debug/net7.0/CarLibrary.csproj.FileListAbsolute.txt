@@ -1,0 +1,23 @@
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\bin\Debug\net7.0\CarLibrary.deps.json
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\bin\Debug\net7.0\CarLibrary.dll
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\bin\Debug\net7.0\CarLibrary.pdb
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.AssemblyInfo.cs
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.dll
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\refint\CarLibrary.dll
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.pdb
+C:\Users\Evg\Desktop\Шарипова Виктория\Lab10\CarLibrary\obj\Debug\net7.0\ref\CarLibrary.dll
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\bin\Debug\net7.0\CarLibrary.deps.json
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\bin\Debug\net7.0\CarLibrary.dll
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\bin\Debug\net7.0\CarLibrary.pdb
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.AssemblyInfo.cs
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.dll
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\refint\CarLibrary.dll
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\CarLibrary.pdb
+C:\Users\79024\Documents\ВШЭ\Программирование\Lab10\CarLibrary\obj\Debug\net7.0\ref\CarLibrary.dll
